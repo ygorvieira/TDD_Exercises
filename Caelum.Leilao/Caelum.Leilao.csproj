@@ -44,9 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AnoBissexto\AnoBissexto.cs" />
-    <Compile Include="AnoBissexto\AnoBissextoTests.cs" />
     <Compile Include="Avaliador.cs" />
+    <Compile Include="CriadorDeLeilao.cs" />
     <Compile Include="FiltroLances\FiltroDeLances.cs" />
     <Compile Include="FiltroLances\FiltroDeLancesTest.cs" />
     <Compile Include="LeilaoTest.cs" />
@@ -59,7 +58,7 @@
     <Compile Include="Lance.cs" />
     <Compile Include="Leilao.cs" />
     <Compile Include="Palindromo\TestaPalindromo.cs" />
-    <Compile Include="TesteDoAvaliador.cs" />
+    <Compile Include="AvaliadorTest.cs" />
     <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
